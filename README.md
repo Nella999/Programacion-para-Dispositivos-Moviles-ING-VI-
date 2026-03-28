@@ -1,1 +1,3 @@
-# Programaci-n-para-Dispositivos-M-viles-ING-VI-
+# Programacion-para-Dispositivos-Mvoiles-ING-VI-
+## Brunella Alor Aquino 
+## Ingeniería de Software
