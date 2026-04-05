@@ -4,48 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60a378ab-07ce-4429-bbea-083c60da21e5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/AdivinaNumero/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/AdivinaNumero/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/AdivinaNumero/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/AdivinaNumero/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/AdivinaNumero/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/AdivinaNumero/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/AdivinaNumero/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/AdivinaNumero/AdivinaNumero.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/AdivinaNumero/src/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/Calculadora/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/Calculadora/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/Calculadora/.idea/Calculadora.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/Calculadora/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/Calculadora/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/Calculadora/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/Calculadora/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/Calculadora/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/Calculadora/Calculadora.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/Calculadora/src/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/PPT/PiedraPapelTijera/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/PPT/PiedraPapelTijera/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/PPT/PiedraPapelTijera/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/PPT/PiedraPapelTijera/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/PPT/PiedraPapelTijera/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/PPT/PiedraPapelTijera/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/PPT/PiedraPapelTijera/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/PPT/PiedraPapelTijera/PiedraPapelTijera.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/PPT/PiedraPapelTijera/src/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/evEmpleados/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/evEmpleados/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/evEmpleados/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/evEmpleados/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/evEmpleados/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/evEmpleados/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/evEmpleados/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/evEmpleados/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/evEmpleados/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/evEmpleados/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/evEmpleados/evEmpleados.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/evEmpleados/src/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PRACTICA 1/evEmpleados/untitled/untitled.iml" beforeDir="false" />
+    <list default="true" id="35a52a49-33fe-4f35-b0c9-0da2f6284f56" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,17 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0,
-  &quot;fromUser&quot;: false
-}</component>
-  <component name="ProjectId" id="3BsBbbwMScTqiIR01wd8k6trA9K" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3Bv9j4vH1UfSJkxOTEhkVI7MENc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -74,7 +34,6 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
@@ -85,7 +44,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/avril/PRACTICA 2/productos/src/Main.kt",
+    "onboarding.tips.debug.path": "C:/Users/avril/PDM - ING VI/PRACTICA 2/productos/src/Main.kt",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -114,14 +73,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="60a378ab-07ce-4429-bbea-083c60da21e5" name="Changes" comment="" />
-      <created>1775268004066</created>
+      <changelist id="35a52a49-33fe-4f35-b0c9-0da2f6284f56" name="Changes" comment="" />
+      <created>1775358813789</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1775268004066</updated>
-      <workItem from="1775268008139" duration="5981000" />
-      <workItem from="1775347853099" duration="635000" />
-      <workItem from="1775350826084" duration="483000" />
+      <updated>1775358813789</updated>
+      <workItem from="1775358815286" duration="947000" />
     </task>
     <servers />
   </component>
