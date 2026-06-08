@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class hobbies extends StatelessWidget {
-  const hobbies({super.key});
+  const hobbies({super.key}); //constructor de la clase
 
   @override
   Widget build(BuildContext context) {
@@ -13,7 +13,7 @@ class hobbies extends StatelessWidget {
         padding: const EdgeInsets.all(20),
         child: Column(
           children: [
-
+// Ordenar los hobbies de manera horizontal
             Row(
               children: const [
                 Icon(Icons.book),
@@ -46,9 +46,9 @@ class hobbies extends StatelessWidget {
 
             Row(
               children: const [
-                Icon(Icons.sports_soccer),
+                Icon(Icons.art_track),
                 SizedBox(width: 10),
-                Text("Practicar basquetball"),
+                Text("Dibujar o pintar"),
               ],
             ),
           ],

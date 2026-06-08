@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class inicio extends StatelessWidget {
-  const inicio({super.key});
+  const inicio({super.key}); //constructor de las clases
 
   @override
   Widget build(BuildContext context) {
@@ -14,6 +14,7 @@ class inicio extends StatelessWidget {
         child: Padding(
           padding: const EdgeInsets.all(20),
           child: Column(
+            //centrar elementos de manera vertical
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               const Text(
@@ -27,7 +28,7 @@ class inicio extends StatelessWidget {
               const SizedBox(height: 20),
 
               ElevatedButton(
-                onPressed: () {},
+                onPressed: () {}, //aun no existe una acción para el botón
                 child: const Text("Ver mi perfil"),
               ),
             ],
